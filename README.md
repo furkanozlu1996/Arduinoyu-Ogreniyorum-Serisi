@@ -1,1 +1,1 @@
-# Arduinoyu-Ogreniyorum-Serisi
+# Arduinoyu öğreniyorum serisi ile uygulamalı bir şekilde arduinoyu öğreniyoruz.
